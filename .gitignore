@@ -1,0 +1,5 @@
+shots/*.mp4
+out/
+__pycache__/
+.venv/
+clips/*.mp4
